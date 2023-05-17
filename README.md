@@ -7,14 +7,14 @@ You Need To Execute Server & Client in Different Terminal
  For Server: 
 
 ```bash
-  cd backend
+  cd server
   npm install 
-  node server.js
+  npm run start
 ```
 For Client : 
 
 ```bash
-  cd frontend
+  cd client
   npm install 
   npm start
 ```
